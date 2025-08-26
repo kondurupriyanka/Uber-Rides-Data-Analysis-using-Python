@@ -50,5 +50,3 @@ The dataset includes:
 ## 🛠️ Tech Stack
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Jupyter Notebook**
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Jupyter Notebook**
